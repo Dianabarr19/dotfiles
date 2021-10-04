@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = diana.barroso@edu.em-lyon.com
+	name = Diana Barroso
